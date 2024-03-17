@@ -1,0 +1,134 @@
+{
+  "browse_the_range": [
+    {
+      "title": "Dining",
+      "img": [
+        "./src/assets/img/browse_the_range/din-png.png",
+        "./src/assets/img/browse_the_range/din-jpg.jpg",
+        "./src/assets/img/browse_the_range/din-svg.svg"
+      ]
+    },
+    {
+      "title": "Living",
+      "img": [
+        "./src/assets/img/browse_the_range/liv-png.png",
+        "./src/assets/img/browse_the_range/liv-jpg.jpg",
+        "./src/assets/img/browse_the_range/liv-svg.svg"
+      ]
+    },
+    {
+      "title": "Bedroom",
+      "img": [
+        "./src/assets/img/browse_the_range/bed-png.png",
+        "./src/assets/img/browse_the_range/bed-jpg.jpg",
+        "./src/assets/img/browse_the_range/bed-svg.svg"
+      ]
+    }
+  ],
+  "our_products": [
+    {
+      "id": 1,
+      "heading": "Syltherine",
+      "title": "Stylish cafe chair",
+      "price": "Rp 2.500.000",
+      "old_price": "Rp 3.500.000",
+      "descount": "-30%",
+      "images": [
+        "./src/assets/img/our__images/syl-png.png",
+        "./src/assets/img/our__images/syl-jpg.jpg",
+        "./src/assets/img/our__images/syl-svg.svg"
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Leviosa",
+      "title": "Stylish cafe chair",
+      "price": "Rp 2.500.000",
+      "old_price": "",
+      "descount": "",
+      "images": [
+        "./src/assets/img/our__images/lev-png.png",
+        "./src/assets/img/our__images/lev-jpg.jpg",
+        "./src/assets/img/our__images/lev-svg.svg"
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Lolito",
+      "title": "Luxury big sofa",
+      "price": "Rp 7.000.000",
+      "old_price": "Rp 14.000.000",
+      "descount": "-50%",
+      "images": [
+        "./src/assets/img/our__images/lol-png.png",
+        "./src/assets/img/our__images/lol-jpg.jpg",
+        "./src/assets/img/our__images/lol-svg.svg"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Respira",
+      "title": "Outdoor bar table and stool",
+      "price": "Rp 500.000",
+      "old_price": "",
+      "descount": "New",
+      "images": [
+        "./src/assets/img/our__images/res-png.png",
+        "./src/assets/img/our__images/res-jpg.jpg",
+        "./src/assets/img/our__images/res-svg.svg"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Grifo",
+      "title": "Night lamp",
+      "price": "Rp 1.500.000",
+      "old_price": "",
+      "descount": "",
+      "images": [
+        "./src/assets/img/our__images/gri-png.png",
+        "./src/assets/img/our__images/gri-jpg.jpg",
+        "./src/assets/img/our__images/gri-svg.svg"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "Muggo",
+      "title": "Small mug",
+      "price": "Rp 150.000",
+      "old_price": "",
+      "descount": "New",
+      "images": [
+        "./src/assets/img/our__images/mug-png.png",
+        "./src/assets/img/our__images/mug-jpg.jpg",
+        "./src/assets/img/our__images/mug-svg.svg"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Pingky",
+      "title": "Cute bed set",
+      "price": "Rp 7.000.000",
+      "old_price": "Rp 14.000.000",
+      "descount": "-50%",
+      "images": [
+        "./src/assets/img/our__images/pin-png.png",
+        "./src/assets/img/our__images/pin-jpg.jpg",
+        "./src/assets/img/our__images/pin-svg.svg"
+      ]
+    },
+    {
+      "id": 8,
+      "heading": "Potty",
+      "title": "Minimalist flower pot",
+      "price": "Rp 500.000",
+      "old_price": "",
+      "descount": "New",
+      "images": [
+        "./src/assets/img/our__images/pot-png.png",
+        "./src/assets/img/our__images/pot-jpg.jpg",
+        "./src/assets/img/our__images/pot-svg.svg"
+      ]
+    }
+  ]
+}
